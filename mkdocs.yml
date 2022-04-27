@@ -29,7 +29,7 @@ theme:
   language: en
   icon:
     repo: fontawesome/brands/github
-edit_uri: edit/main/docs
+edit_uri: edit/master/docs
 ## [top-right corner]
 repo_url: https://github.com/Frikilinux/frikilinux.github.io
 repo_name: frikilinux.github.io
@@ -49,6 +49,7 @@ extra:
 nav:
   - Servers: 
     - server/index.md 
+    - Servidores: server/index.md 
 
 # [Extensions]
 plugins:
