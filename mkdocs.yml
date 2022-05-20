@@ -14,13 +14,13 @@ theme:
       accent: orange
       toggle:
         icon: material/weather-night
-        name: TOGGLE
+        name: Dark mode
     - scheme: slate
       primary: indigo
       accent: orange
       toggle:
         icon: material/weather-sunny
-        name: 切换至日间模式
+        name: White mode
   features:
     - navigation.tabs
     - navigation.top
